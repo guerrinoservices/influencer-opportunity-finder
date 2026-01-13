@@ -150,6 +150,8 @@ The Extension interacts with third-party platforms (such as Amazon) only on page
 
 The Extension does not impersonate users, bypass platform safeguards, or automatically submit actions or communications on a user’s behalf.
 
+All analysis actions are initiated by the user through explicit interaction with the Extension.
+
 6.2 No Affiliation
 
 We are not affiliated with, endorsed by, or sponsored by Amazon or any other third-party platform.
@@ -158,7 +160,7 @@ We are not affiliated with, endorsed by, or sponsored by Amazon or any other thi
 
 You may request access to, correction of, or deletion of your personal data by contacting us.
 
-You may also opt out of marketing emails or disable analytics features (where available) through Extension settings.
+You may contact us with questions about analytics collection.
 
 8. Data Retention
 
