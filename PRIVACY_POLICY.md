@@ -1,226 +1,207 @@
-# Privacy Policy
+Privacy Policy
+Last Updated: January 12, 2026
 
-**Last Updated: January 12, 2026**
+1. Introduction
 
-## 1. Introduction
+This Privacy Policy describes how Influencer Opportunity Finder (“we,” “us,” or “our”) collects, uses, and protects information when you use our browser extension (the “Extension”).
 
-This Privacy Policy describes how Influencer Opportunity Finder ("we," "us," or "our") collects, uses, and protects information when you use our browser extension (the "Extension").
+By using the Extension, you consent to the data practices described in this policy.
 
-**By using the Extension, you consent to the data practices described in this policy.**
+2. Information We Collect
+2.1 Information You Provide
 
-## 2. Information We Collect
-
-### 2.1 Information You Provide
 We may collect:
-- **License Key/Email**: For subscription management and authentication
-- **Support Communications**: When you contact us for help
 
-### 2.2 Automatically Collected Information
-The Extension may collect:
-- **Usage Statistics**: Number of ASINs checked, features used, errors encountered
-- **Technical Data**: Browser version, extension version, operating system
-- **Performance Data**: Script execution times, success/failure rates
+License Key and Email Address: Used for subscription management, authentication, and customer support
 
-### 2.3 Information We DO NOT Collect
-We explicitly DO NOT collect:
-- Your passwords or login credentials for third-party platforms
-- The specific ASINs or products you check
-- Your personal browsing history outside the Extension's function
-- Any personally identifiable information beyond what's necessary for service delivery
+Support Communications: Information you provide when contacting us for assistance
 
-## 3. How We Use Information
+2.2 Automatically Collected Information
 
-### 3.1 Service Delivery
-We use information to:
-- Validate your subscription and license
-- Provide customer support
-- Send service-related notifications (e.g., subscription renewal)
+The Extension may collect limited, anonymized technical information, including:
 
-### 3.2 Service Improvement
+Usage Statistics: Aggregate counts (e.g., number of analyses performed), features used, and error events
+
+Technical Data: Browser type, extension version, operating system
+
+Performance Data: Script execution timing and success or failure indicators
+
+Any analytics or performance data collected is aggregated and anonymized and does not include page content, product details, Amazon account information, specific ASINs, or personally identifiable browsing data.
+
+2.3 Information We DO NOT Collect
+
+We explicitly do NOT collect:
+
+Passwords or login credentials for Amazon or any third-party platforms
+
+Specific ASINs, product identifiers, or page content being analyzed
+
+Private messages, checkout data, or payment credentials
+
+Personal browsing history outside the Extension’s functionality
+
+Sensitive personal data unrelated to subscription or support
+
+3. How We Use Information
+3.1 Service Delivery
+
+We use collected information to:
+
+Validate subscriptions and licenses
+
+Enable paid and free features appropriately
+
+Provide customer support
+
+Send service-related communications (e.g., receipts, renewal notices)
+
+3.2 Service Improvement
+
 We use aggregated, anonymous data to:
-- Improve Extension performance and reliability
-- Identify and fix bugs
-- Develop new features
-- Analyze usage patterns
 
-### 3.3 Communication
-We may use your email to:
-- Send subscription confirmations and receipts
-- Provide customer support responses
-- Send important service updates (opt-out available for marketing)
+Improve Extension performance and reliability
 
-## 4. Data Storage and Security
+Identify and fix bugs
 
-### 4.1 Local Storage
-The Extension stores data locally on your device:
-- **Browser Storage**: Temporary data for Extension operation
-- **localStorage**: Progress tracking, saved settings
+Develop new features
 
-This local data:
-- Remains on your device
-- Is not transmitted to our servers unless you explicitly sync
-- Can be cleared by uninstalling the Extension
+Understand feature usage patterns
 
-### 4.2 Cloud Storage (If Applicable)
-If you use cloud sync features:
-- Data is encrypted in transit (HTTPS/TLS)
-- Data is stored on secure servers
-- You can request data deletion at any time
+3.3 Communication
 
-### 4.3 Security Measures
-We implement reasonable security measures:
-- Encrypted data transmission
-- Secure authentication
-- Regular security audits
-- Limited employee access to user data
+We may use your email address to:
 
-**However, no system is 100% secure. You use the Extension at your own risk.**
+Send subscription confirmations and billing notices
 
-## 5. Data Sharing and Third Parties
+Respond to support requests
 
-### 5.1 We Do Not Sell Your Data
-We will never sell, rent, or trade your personal information to third parties for marketing purposes.
+Send important service updates
 
-### 5.2 Service Providers
-We may share data with trusted service providers who help us operate:
-- **Payment Processors**: To handle subscriptions (e.g., Stripe, Lemon Squeezy)
-- **Analytics Services**: To understand usage patterns (anonymized data only)
-- **Customer Support Tools**: To provide support (e.g., email service)
+Marketing emails, if any, include an unsubscribe option.
 
-These providers:
-- Are contractually obligated to protect your data
-- Can only use data for specified purposes
-- Cannot use your data for their own purposes
+4. Data Storage and Security
+4.1 Local Storage
 
-### 5.3 Legal Requirements
-We may disclose information if required by:
-- Law, regulation, or legal process
-- Government request
-- Protection of our rights or safety
-- Investigation of fraud or security issues
+The Extension stores certain data locally on your device, including:
 
-### 5.4 Business Transfers
-If we are acquired or merge with another company, your information may be transferred. You will be notified of any such change.
+Browser storage for settings and operational state
 
-## 6. Third-Party Platforms
+Progress indicators and saved preferences
 
-### 6.1 Platform Interactions
-The Extension interacts with third-party platforms (e.g., Amazon). Your interactions with these platforms are governed by their own privacy policies, not ours.
+This data:
 
-### 6.2 No Affiliation
-We are not affiliated with, endorsed by, or sponsored by any third-party platform. We do not control their privacy practices.
+Remains on your device
 
-## 7. Your Rights and Choices
+Is not transmitted unless required for subscription validation
 
-### 7.1 Access and Correction
-You have the right to:
-- Access the personal data we hold about you
-- Request correction of inaccurate data
-- Request deletion of your data (subject to legal obligations)
+Is deleted when you uninstall the Extension
 
-### 7.2 Opt-Out
-You can opt-out of:
-- Marketing emails (unsubscribe link in emails)
-- Analytics tracking (by disabling in Extension settings)
+4.2 Cloud Storage (Optional Feature)
 
-### 7.3 Data Portability
-You can request a copy of your data in a machine-readable format.
+If you choose to enable optional cloud-based features:
 
-### 7.4 How to Exercise Rights
-To exercise any of these rights, contact us at guerrinoservices@gmail.com.
+Limited account-related data may be stored to support subscription validation and settings synchronization
 
-## 8. Data Retention
+Data is encrypted in transit using HTTPS/TLS
 
-### 8.1 Active Accounts
-We retain your data while your account is active or as needed to provide services.
+You may request deletion of this data at any time
 
-### 8.2 After Cancellation
-After subscription cancellation:
-- Usage data is deleted after 90 days
-- Account data may be retained for legal/billing purposes (up to 7 years)
-- You can request immediate deletion
+4.3 Security Measures
 
-### 8.3 Local Data
-Data stored locally on your device is deleted when you uninstall the Extension.
+We implement reasonable safeguards, including:
 
-## 9. Children's Privacy
+Encrypted data transmission
 
-The Extension is not intended for users under 18. We do not knowingly collect data from children. If we learn we have collected data from a child, we will delete it promptly.
+Secure authentication mechanisms
 
-## 10. International Users
+Restricted access to user data
 
-### 10.1 Data Transfers
-If you use the Extension outside United States, your data may be transferred to and processed in United States.
+No system is completely secure, and use of the Extension is at your own risk.
 
-### 10.2 GDPR (EU Users)
-If you are in the European Union:
-- Legal basis for processing: Contract fulfillment, legitimate interests, consent
-- Right to lodge complaint with supervisory authority
-- Right to object to processing
-- Right to data portability
+5. Data Sharing and Third Parties
+5.1 No Sale of Data
 
-### 10.3 CCPA (California Users)
-If you are a California resident:
-- Right to know what data is collected
-- Right to deletion
-- Right to opt-out of sale (we don't sell data)
-- Right to non-discrimination
+We do not sell, rent, or trade personal information.
 
-## 11. Cookies and Tracking
+5.2 Service Providers
 
-### 11.1 Extension Functionality
-The Extension uses browser storage (similar to cookies) to:
-- Remember your settings
-- Track progress during operation
-- Maintain authentication
+We may share limited data with trusted providers solely to operate the service, such as:
 
-### 11.2 Third-Party Cookies
-We do not use third-party tracking cookies. However, payment processors and third-party platforms may use their own cookies.
+Payment Processors (e.g., Stripe, Lemon Squeezy)
 
-## 12. Changes to This Policy
+Analytics Services (aggregated, anonymized data only)
 
-### 12.1 Updates
-We may update this Privacy Policy from time to time. Changes will be posted with an updated "Last Updated" date.
+Customer Support Tools
 
-### 12.2 Notification
-For material changes, we will:
-- Update the Extension with a notice
-- Send email notification (if you've provided an email)
-- Post notice on our website
+These providers are contractually obligated to protect data and may only use it for specified purposes.
 
-### 12.3 Continued Use
-Your continued use after changes constitutes acceptance of the updated policy.
+5.3 Legal Obligations
 
-## 13. Contact Us
+We may disclose information if required by law, regulation, or legal process, or to protect our rights and users.
 
-### 13.1 Questions or Concerns
-If you have questions about this Privacy Policy or our data practices:
+5.4 Business Transfers
 
-**Email**: guerrinoservices@gmail.com
-**Website**: https://influenceropportunityfinder.com
+In the event of a merger, acquisition, or asset sale, user data may be transferred with notice provided where required.
 
-### 13.2 Data Requests
-To request access, correction, or deletion of your data, contact us at the email above with:
-- Your name and email
-- Specific request (access, correction, deletion)
-- Verification information
+6. Third-Party Platforms
+6.1 Platform Interactions
 
-We will respond within 30 days.
+The Extension interacts with third-party platforms (such as Amazon) only on pages you actively view. These platforms are governed by their own privacy policies.
 
-## 14. Compliance
+The Extension does not impersonate users, bypass platform safeguards, or automatically submit actions or communications on a user’s behalf.
 
-We are committed to complying with applicable privacy laws including:
-- General Data Protection Regulation (GDPR)
-- California Consumer Privacy Act (CCPA)
-- Other applicable regional privacy laws
+6.2 No Affiliation
 
-## 15. Consent
+We are not affiliated with, endorsed by, or sponsored by Amazon or any other third-party platform.
 
-By installing and using the Extension:
-- You consent to the collection and use of information as described
-- You acknowledge you have read and understood this Privacy Policy
-- You agree to the data practices described herein
+7. Your Rights and Choices
 
----
+You may request access to, correction of, or deletion of your personal data by contacting us.
 
-**Questions? Contact us at guerrinoservices@gmail.com**
+You may also opt out of marketing emails or disable analytics features (where available) through Extension settings.
+
+8. Data Retention
+
+Account data is retained while your subscription is active
+
+After cancellation, usage data is deleted within 90 days
+
+Billing records may be retained for legal and tax compliance (up to 7 years)
+
+Local data is removed when the Extension is uninstalled
+
+9. Children’s Privacy
+
+The Extension is not intended for users under 18, and we do not knowingly collect data from children.
+
+10. International Users
+
+Data may be processed in the United States.
+
+EU and California residents have rights under GDPR and CCPA, including access, deletion, and objection to processing.
+
+11. Cookies and Tracking
+
+The Extension uses browser storage (similar to cookies) only for functionality such as:
+
+Remembering settings
+
+Maintaining authentication
+
+Tracking progress during use
+
+We do not use third-party advertising or tracking cookies.
+
+12. Policy Updates
+
+We may update this policy periodically. Material changes will be communicated via the Extension, email (if provided), or our website.
+
+13. Contact Us
+
+📧 guerrinoservices@gmail.com
+
+🌐 https://influenceropportunityfinder.com
+
+14. Consent
+
+By installing and using the Extension, you acknowledge that you have read and understood this Privacy Policy.
