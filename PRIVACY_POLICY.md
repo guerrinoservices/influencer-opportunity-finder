@@ -3,7 +3,7 @@ Last Updated: January 12, 2026
 
 1. Introduction
 
-This Privacy Policy describes how Influencer Opportunity Finder (“we,” “us,” or “our”) collects, uses, and protects information when you use our browser extension (the “Extension”).
+This Privacy Policy describes how Influencer Opportunity Finder ("we," "us," or "our") collects, uses, and protects information when you use our browser extension (the "Extension").
 
 By using the Extension, you consent to the data practices described in this policy.
 
@@ -26,19 +26,19 @@ Technical Data: Browser type, extension version, operating system
 
 Performance Data: Script execution timing and success or failure indicators
 
-Any analytics or performance data collected is aggregated and anonymized and does not include page content, product details, Amazon account information, specific ASINs, or personally identifiable browsing data.
+Any analytics or performance data collected is aggregated and anonymized and does not include page content, product details, account information, specific product identifiers, or personally identifiable browsing data.
 
 2.3 Information We DO NOT Collect
 
 We explicitly do NOT collect:
 
-Passwords or login credentials for Amazon or any third-party platforms
+Passwords or login credentials for any third-party platforms
 
-Specific ASINs, product identifiers, or page content being analyzed
+Specific product identifiers or page content being analyzed
 
 Private messages, checkout data, or payment credentials
 
-Personal browsing history outside the Extension’s functionality
+Personal browsing history outside the Extension's functionality
 
 Sensitive personal data unrelated to subscription or support
 
@@ -77,7 +77,6 @@ Respond to support requests
 
 Send important service updates
 
-Marketing emails, if any, include an unsubscribe option.
 
 4. Data Storage and Security
 4.1 Local Storage
@@ -146,15 +145,15 @@ In the event of a merger, acquisition, or asset sale, user data may be transferr
 6. Third-Party Platforms
 6.1 Platform Interactions
 
-The Extension interacts with third-party platforms (such as Amazon) only on pages you actively view. These platforms are governed by their own privacy policies.
+The Extension interacts with third-party platforms only on pages you actively view. These platforms are governed by their own privacy policies.
 
-The Extension does not impersonate users, bypass platform safeguards, or automatically submit actions or communications on a user’s behalf.
+The Extension does not impersonate users, bypass platform safeguards, or automatically submit actions or communications on a user's behalf.
 
 All analysis actions are initiated by the user through explicit interaction with the Extension.
 
 6.2 No Affiliation
 
-We are not affiliated with, endorsed by, or sponsored by Amazon or any other third-party platform.
+We are not affiliated with, endorsed by, or sponsored by any third-party platform.
 
 7. Your Rights and Choices
 
@@ -172,7 +171,7 @@ Billing records may be retained for legal and tax compliance (up to 7 years)
 
 Local data is removed when the Extension is uninstalled
 
-9. Children’s Privacy
+9. Children's Privacy
 
 The Extension is not intended for users under 18, and we do not knowingly collect data from children.
 
@@ -201,8 +200,6 @@ We may update this policy periodically. Material changes will be communicated vi
 13. Contact Us
 
 📧 guerrinoservices@gmail.com
-
-🌐 https://influenceropportunityfinder.com
 
 14. Consent
 
