@@ -8,7 +8,7 @@ By installing, accessing, or using the Influencer Opportunity Finder extension (
 
 ## 2. Description of Service
 
-The Extension is a productivity tool designed to help influencers identify potential brand partnership opportunities by automating the process of checking products for available campaigns.
+The Extension is a productivity tool designed to help influencers identify potential brand partnership opportunities by assisting in the process of checking products for available campaigns.
 
 ## 3. User Responsibilities
 
@@ -27,14 +27,15 @@ You agree NOT to:
 - Share your license key with others
 - Resell or redistribute the Extension without permission
 
-## 4. Automation and Third-Party Platforms
+## 4. Use of Extension and Third-Party Platforms
 
-### 4.1 Automation Disclaimer
-The Extension automates interactions with third-party platforms. You acknowledge and agree that:
-- **You use this automation at your own risk**
-- The use of automation tools may violate third-party platform terms of service
+### 4.1 User-Initiated Actions
+The Extension assists you in checking eligibility on third-party platforms. All actions are user-initiated. You acknowledge and agree that:
+- **You use this tool at your own risk**
+- **You must comply with all third-party platform terms of service**
 - We are not responsible for any account suspensions, bans, or other consequences resulting from your use of the Extension
 - You are solely responsible for ensuring your use complies with all applicable platform policies
+- You control all actions taken by the Extension through explicit button clicks
 
 ### 4.2 Platform Affiliation
 **We are not affiliated with, endorsed by, or sponsored by any third-party platform** including but not limited to Amazon, Amazon Associates, or Amazon Influencer Program. Any trademarks, service marks, or logos mentioned are the property of their respective owners.
@@ -65,7 +66,7 @@ WE SHALL NOT BE LIABLE FOR ANY:
 - Loss of profits, revenue, data, or use
 - Account suspensions or bans from third-party platforms
 - Opportunities missed or lost
-- Damages resulting from automation failures or errors
+- Damages resulting from software errors or failures
 
 ### 6.2 Maximum Liability
 Our total liability to you for any claims arising from or related to the Extension shall not exceed the amount you paid for the Extension in the 12 months preceding the claim.
@@ -154,7 +155,7 @@ guerrinoservices@gmail.com
 BY USING THE EXTENSION, YOU ACKNOWLEDGE THAT:
 - You have read and understood these Terms
 - You agree to be bound by these Terms
-- You understand the risks associated with automation
+- You understand the risks associated with using this software
 - You are solely responsible for any consequences of using the Extension
 - You understand we are not affiliated with any third-party platforms
 
