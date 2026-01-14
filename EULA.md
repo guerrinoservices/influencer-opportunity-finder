@@ -62,11 +62,12 @@ YOU ACKNOWLEDGE AND AGREE THAT:
 - We do not warrant compatibility with all systems
 
 ### 3.3 Third-Party Platform Risks
-THE SOFTWARE AUTOMATES INTERACTIONS WITH THIRD-PARTY PLATFORMS. YOU ACKNOWLEDGE THAT:
-- **Automation may violate third-party terms of service**
-- **You may face account suspension, termination, or bans**
+THE SOFTWARE ASSISTS YOU IN CHECKING ELIGIBILITY ON THIRD-PARTY PLATFORMS. YOU ACKNOWLEDGE THAT:
+- **You must comply with all third-party terms of service**
+- **You may face account suspension, termination, or bans if you violate platform policies**
 - **We are not responsible for any such consequences**
 - You are solely responsible for ensuring compliance with platform policies
+- All actions are user-initiated and you control how the software is used
 
 ---
 
@@ -202,7 +203,6 @@ The Software may include third-party components subject to separate license term
 For questions about this EULA:
 
 **Email**: guerrinoservices@gmail.com
-**Website**: https://influenceropportunityfinder.com
 
 ---
 
@@ -212,7 +212,7 @@ BY INSTALLING OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT:
 
 ✓ You have read and understood this EULA
 ✓ You agree to be bound by its terms
-✓ You understand the risks of using automation software
+✓ You understand the risks of using this software
 ✓ You accept responsibility for any consequences of use
 ✓ You understand we are not affiliated with any third-party platforms
 ✓ You agree to indemnify us as described herein
