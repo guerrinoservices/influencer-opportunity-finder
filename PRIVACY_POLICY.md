@@ -1,6 +1,6 @@
 # Privacy Policy - Influencer Opportunity Finder
 
-**Last Updated:** January 14, 2026
+**Last Updated:** January 19, 2026
 
 ---
 
@@ -22,13 +22,19 @@ Influencer Opportunity Finder is a productivity tool that **assists you** in che
 
 1. **You Navigate:** You navigate to relevant web pages in your browser
 2. **You Open Extension:** You open the Extension popup interface
-3. **You Click Button:** You click a button (e.g., "Start") to begin a process
-4. **Extension Assists:** The Extension performs repetitive data entry tasks on your behalf
+3. **You Click Button:** You click a button (e.g., "Start" or "Activate Storefront Overlay") to begin a process
+4. **Extension Assists:** The Extension performs repetitive tasks or displays helpful overlays on your behalf
 5. **You Remain in Control:** You can stop, pause, or close the Extension at any time
+
+**Features:**
+- **Product Extraction & Analysis:** Automatically extracts product information from your storefront and checks availability
+- **Partnership Opportunity Checking:** Helps identify which products qualify for brand partnerships
+- **Quick Edit Mode (Storefront Overlay):** Adds edit icons to video thumbnails for quick access to content management pages (activated only when you click the activation button)
 
 **Technical Implementation:**
 - When you click to start a process, the Extension uses standard browser methods to interact with the page you're viewing
 - It performs actions you would otherwise do manually: reading visible page content, copying data, pasting data, and clicking elements
+- The Storefront Overlay feature only activates when you explicitly click the activation button and displays interface elements on the page
 - These operations occur **only while you keep the browser tab active and the Extension running**
 - All processing happens **locally in your browser** - no page content is sent to external servers
 
@@ -38,6 +44,7 @@ Influencer Opportunity Finder is a productivity tool that **assists you** in che
 
 ✅ **All actions require your explicit consent**
 - You must manually click buttons to initiate any operation
+- Features like Quick Edit Mode only activate when you click the activation button
 - The Extension does not run automatically in the background
 - The Extension does not perform actions when closed or on tabs you're not viewing
 
@@ -790,7 +797,7 @@ If you are a California resident and have questions, email us at guerrinoservice
 
 ---
 
-**Last Updated:** January 14, 2026
+**Last Updated:** January 19, 2026
 
 ---
 
