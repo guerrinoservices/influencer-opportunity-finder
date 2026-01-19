@@ -26,6 +26,12 @@ This extension helps streamline the process of checking product eligibility for 
 - Real-time progress indicators
 - Stop or pause at any time
 
+✅ **Quick Edit Mode (NEW!)**
+- Add edit icons to video thumbnails on your storefront
+- One-click access to manage content for each video
+- Session-based activation - only when you need it
+- Automatically handles lazy-loaded videos as you scroll
+
 ✅ **Local Processing**
 - All data processed in your browser
 - No page content sent to external servers
@@ -160,7 +166,7 @@ All trademarks, service marks, and logos are the property of their respective ow
 ## 📥 Installation
 
 ### Option 1: Chrome Web Store
-1. Visit the [Chrome Web Store listing](#) (link coming soon)
+1. Visit the [Chrome Web Store listing](https://chrome.google.com/webstore) (search for "Influencer Opportunity Finder")
 2. Click "Add to Chrome"
 3. Follow the prompts to install
 
@@ -289,7 +295,7 @@ This project is proprietary software. Use of the extension is subject to the [Pr
 
 ## 🚀 Ready to Get Started?
 
-1. Install from the [Chrome Web Store](#) (coming soon)
+1. Install from the [Chrome Web Store](https://chrome.google.com/webstore) (search for "Influencer Opportunity Finder")
 2. Or load manually in developer mode
 3. Start with the free tier (no credit card needed)
 4. Check up to 50 products per month for free
