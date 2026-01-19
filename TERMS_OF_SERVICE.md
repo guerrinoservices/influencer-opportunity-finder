@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated: January 12, 2026**
+**Last Updated: January 19, 2026**
 
 ## 1. Acceptance of Terms
 
@@ -8,7 +8,7 @@ By installing, accessing, or using the Influencer Opportunity Finder extension (
 
 ## 2. Description of Service
 
-The Extension is a productivity tool designed to help influencers identify potential brand partnership opportunities by assisting in the process of checking products for available campaigns.
+The Extension is a productivity tool designed to help influencers identify potential brand partnership opportunities by assisting in the process of checking products for available campaigns. The Extension includes features such as product extraction, availability checking, partnership opportunity identification, and Quick Edit Mode for convenient content management access.
 
 ## 3. User Responsibilities
 
@@ -18,6 +18,7 @@ You agree to:
 - Comply with all applicable laws and regulations
 - Use the Extension in accordance with the terms of service of any third-party platforms you interact with
 - Not use the Extension to violate any third-party rights
+- Activate features only when you intend to use them
 
 ### 3.2 Prohibited Activities
 You agree NOT to:
@@ -26,6 +27,7 @@ You agree NOT to:
 - Use the Extension to spam, harass, or abuse any service or individual
 - Share your license key with others
 - Resell or redistribute the Extension without permission
+- Use the Extension in ways that violate third-party platform terms of service
 
 ## 4. Use of Extension and Third-Party Platforms
 
