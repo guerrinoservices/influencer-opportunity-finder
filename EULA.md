@@ -1,6 +1,6 @@
 # End User License Agreement (EULA)
 
-**Last Updated: January 12, 2026**
+**Last Updated: January 19, 2026**
 
 ## IMPORTANT - READ CAREFULLY
 
@@ -24,9 +24,13 @@ You may NOT:
 - Use the Software for any illegal purpose
 - Share your license key with unauthorized users
 - Use the Software to violate any third-party terms of service
+- Use the Software in a manner that violates the terms of service of any third-party platform
 
 ### 1.3 Subscription Required
 Use of certain features requires an active subscription. License terminates upon subscription cancellation or expiration.
+
+### 1.4 User-Activated Features
+All Software features operate only when explicitly activated by the User. The Software does not run automatically or collect data without User interaction.
 
 ---
 
