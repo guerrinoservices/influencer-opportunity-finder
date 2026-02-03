@@ -221,7 +221,7 @@ You have the right to:
 
 ### 8.3 Data Protection Officer
 
-For GDPR inquiries, contact us at: privacy@influenceropportunityfinder.com
+For GDPR inquiries, contact us at: guerrinoservices@gmail.com
 
 ### 8.4 Supervisory Authority
 
@@ -255,7 +255,7 @@ We will not discriminate against you for exercising your CCPA rights.
 
 ### 9.5 CCPA Requests
 
-To exercise your CCPA rights, contact us at: privacy@influenceropportunityfinder.com
+To exercise your CCPA rights, contact us at: guerrinoservices@gmail.com
 
 ## 10. Cookies and Tracking
 
@@ -308,9 +308,9 @@ We may update this Privacy Policy from time to time to reflect:
 
 If you have questions about this Privacy Policy or our data practices:
 
-**Email:** privacy@influenceropportunityfinder.com  
-**Support:** support@influenceropportunityfinder.com  
-**Website:** https://influenceropportunityfinder.com
+**Email:** guerrinoservices@gmail.com  
+**Support:** guerrinoservices@gmail.com  
+**Website:** https://guerrinoservices.github.io/influencer-opportunity-finder
 
 **For GDPR/CCPA requests, please use the privacy email address.**
 
