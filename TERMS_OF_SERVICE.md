@@ -159,7 +159,7 @@ We do not guarantee:
 ### 7.1 Pricing
 
 Current pricing for paid tiers is available at:
-- Our website: https://influenceropportunityfinder.com/pricing
+- Our website: https://guerrinoservices.github.io/influencer-opportunity-finder
 - Chrome Web Store listing
 - Lemon Squeezy checkout page
 
@@ -198,7 +198,7 @@ Subscriptions automatically renew unless:
 
 **After 14 Days:**
 - Refunds at our sole discretion
-- Contact support@influenceropportunityfinder.com
+- Contact guerrinoservices@gmail.com
 - Exceptional circumstances only
 
 **No Refunds For:**
@@ -469,7 +469,7 @@ Continued use after changes constitutes acceptance. If you disagree:
 ### 16.1 Informal Resolution
 
 Before filing a claim:
-- Contact support@influenceropportunityfinder.com
+- Contact guerrinoservices@gmail.com
 - Provide detailed description
 - Attempt good-faith resolution
 - Allow 30 days for resolution
@@ -494,7 +494,7 @@ If informal resolution fails:
 ### 16.4 Opt-Out
 
 You may opt-out of arbitration by:
-- Emailing legal@influenceropportunityfinder.com
+- Emailing guerrinoservices@gmail.com
 - Within 30 days of accepting these Terms
 - Stating your intent to opt-out
 
@@ -547,7 +547,7 @@ There are no third-party beneficiaries to these Terms.
 
 We respect intellectual property rights. If you believe content violates your copyright:
 
-Contact: dmca@influenceropportunityfinder.com
+Contact: guerrinoservices@gmail.com
 
 **Include:**
 - Identification of copyrighted work
@@ -564,7 +564,7 @@ If your content was removed due to a DMCA notice, you may submit a counter-notic
 ## 19. Accessibility
 
 We strive to make the Service accessible. If you encounter accessibility issues:
-- Contact accessibility@influenceropportunityfinder.com
+- Contact guerrinoservices@gmail.com
 - We will work to address concerns
 - No guarantee of full WCAG compliance
 
@@ -584,22 +584,22 @@ California residents have rights under California Civil Code Section 1789.3:
 ## 22. Contact Information
 
 **General Inquiries:**  
-support@influenceropportunityfinder.com
+guerrinoservices@gmail.com
 
 **Legal/Terms Questions:**  
-legal@influenceropportunityfinder.com
+guerrinoservices@gmail.com
 
 **Privacy Questions:**  
-privacy@influenceropportunityfinder.com
+guerrinoservices@gmail.com
 
 **DMCA Notices:**  
-dmca@influenceropportunityfinder.com
+guerrinoservices@gmail.com
 
 **Business Inquiries:**  
-hello@influenceropportunityfinder.com
+guerrinoservices@gmail.com
 
 **Mailing Address:**  
-[To be updated - Company Address]
+Available upon request via email: guerrinoservices@gmail.com
 
 ## 23. Acknowledgment
 
