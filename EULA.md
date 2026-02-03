@@ -133,7 +133,7 @@ We reserve the right to change pricing:
 **Refund Policy:**
 - 14-day money-back guarantee for first purchase
 - Refunds processed through Lemon Squeezy
-- Contact support@influenceropportunityfinder.com to request
+- Contact guerrinoservices@gmail.com to request
 - Refunds are at our sole discretion after 14 days
 
 ### 4.5 Failed Payments
@@ -331,7 +331,7 @@ This EULA is governed by the laws of the State of Delaware, United States, witho
 ### 12.7 Dispute Resolution
 
 **Informal Resolution:**
-Before filing a claim, you agree to contact us at legal@influenceropportunityfinder.com to seek an informal resolution.
+Before filing a claim, you agree to contact us at guerrinoservices@gmail.com to seek an informal resolution.
 
 **Arbitration Agreement:**
 Any disputes arising from this EULA shall be resolved through binding arbitration in accordance with the American Arbitration Association (AAA) rules, except:
@@ -362,9 +362,9 @@ The Software is a "commercial item" as defined in 48 C.F.R. §2.101. U.S. govern
 
 For questions about this EULA:
 
-**Email:** legal@influenceropportunityfinder.com  
-**Support:** support@influenceropportunityfinder.com  
-**Address:** [Company Address - To be updated]
+**Email:** guerrinoservices@gmail.com  
+**Support:** guerrinoservices@gmail.com  
+**Email:** guerrinoservices@gmail.com
 
 ## 14. Acceptance
 
