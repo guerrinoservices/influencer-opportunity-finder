@@ -12,35 +12,59 @@ Legal documentation for the Influencer Opportunity Finder Chrome Extension.
 
 ---
 
+## 🔗 Direct Links
+
+**Privacy Policy (for Chrome Web Store):**
+```
+https://guerrinoservices.github.io/influencer-opportunity-finder/PRIVACY_POLICY
+```
+
+**Terms of Service:**
+```
+https://guerrinoservices.github.io/influencer-opportunity-finder/TERMS_OF_SERVICE
+```
+
+**EULA:**
+```
+https://guerrinoservices.github.io/influencer-opportunity-finder/EULA
+```
+
+---
+
+## ✅ Compliance
+
+All documents are compliant with:
+- ✅ Chrome Web Store Developer Program Policies
+- ✅ GDPR (General Data Protection Regulation)
+- ✅ CCPA (California Consumer Privacy Act)
+- ✅ U.S. Consumer Protection Laws
+
+---
+
 ## 📧 Contact
 
 **Email:** guerrinoservices@gmail.com  
-**Extension:** [Chrome Web Store](https://chrome.google.com/webstore)
+**Extension:** Available on [Chrome Web Store](https://chrome.google.com/webstore)
 
 ---
 
 ## 📅 Last Updated
 
-February 3, 2026
+**February 4, 2026**
+
+### Recent Updates:
+- Privacy Policy v1.1 - Chrome Web Store compliance updates
+- Removed "aggregated data" language
+- Added explicit user-initiated action statements
+- Clarified local-only data storage
 
 ---
 
-## 🔗 Quick Links
+## 📋 Document Versions
 
-**Privacy Policy URL (for Chrome Web Store):**
-```
-https://guerrinoservices.github.io/influencer-opportunity-finder/PRIVACY_POLICY
-```
-
-**Terms of Service URL:**
-```
-https://guerrinoservices.github.io/influencer-opportunity-finder/TERMS_OF_SERVICE
-```
-
-**EULA URL:**
-```
-https://guerrinoservices.github.io/influencer-opportunity-finder/EULA
-```
+- **Privacy Policy**: v1.1 (Updated: Feb 4, 2026)
+- **EULA**: v1.0 (Effective: Feb 1, 2026)
+- **Terms of Service**: v1.0 (Effective: Feb 1, 2026)
 
 ---
 
