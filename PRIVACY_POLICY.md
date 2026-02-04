@@ -64,7 +64,7 @@ The Extension sends minimal data to the following third-party services:
 - **Legal Basis:** Legitimate interest in providing core functionality
 
 **C. Amazon Affiliate Program**
-- **Purpose:** To read Creator Connections earnings data (optional feature)
+- **Purpose:** To display information that is already visible to you within the Amazon Affiliate interface when you explicitly activate the Extension.
 - **Data Sent:**
   - HTTPS requests to affiliate-program.amazon.com
   - Session cookies (if you're logged into Amazon Associates)
@@ -96,6 +96,8 @@ We use your data to:
 - **Smart View:** Overlay scores on your storefront videos
 - **Track Usage:** Enforce tier limits (50/500/unlimited products per month)
 
+All analysis and data display actions are initiated manually by the user through explicit interaction with the Extension interface.
+
 ### 3.2 License Management
 
 We use license data to:
@@ -106,13 +108,7 @@ We use license data to:
 
 ### 3.3 Product Improvement
 
-We may use aggregated, anonymized data to:
-- Improve Extension performance
-- Fix bugs and errors
-- Develop new features
-- Optimize user experience
-
-**Important:** We never access individual user data for product improvement. Any analytics are derived from error logs that contain no personally identifiable information.
+We do not collect or transmit user data for analytics purposes. Any product improvements are informed solely by non-user-specific error events, extension version metrics, and voluntary user feedback provided through support communications.
 
 ## 4. Data Storage and Security
 
@@ -149,6 +145,8 @@ When data is transmitted to third parties:
 ## 5. Your Data Rights
 
 ### 5.1 Access Rights
+
+You may contact us with questions regarding your account or subscription data. Because Extension data is stored locally on your device, we generally do not retain personal data to provide upon request, except where required for billing or legal compliance.
 
 You have the right to:
 - **View Your Data:** All data is stored locally and can be viewed in Chrome's extension storage
